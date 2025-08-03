@@ -2,7 +2,7 @@
 
 Минималистичная псевдо-3D игра в стиле DOOM, реализованная на C# для консоли (.NET 7.0)
 
-![Пример работы](https://example.com/screenshot.png) *(замените на реальный скриншот)*
+![Скриншот](https://github.com/wfuctalsoft/one-file-raycasting/blob/main/Screenshot%202025-08-03%20130558.png)
 
 ## Особенности
 
